@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://2pk.github.io/bloga/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://2pk.github.io/bloga/</loc>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/archive/</loc>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/blog/</loc>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/blog/hello/</loc>
+        <lastmod>2093-02-16</lastmod>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/projects/</loc>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/projects/cool-project/</loc>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/tags/</loc>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/tags/demo/</loc>
+    </url>
+    <url>
+        <loc>https://2pk.github.io/bloga/tags/meta/</loc>
+    </url>
+</urlset>
